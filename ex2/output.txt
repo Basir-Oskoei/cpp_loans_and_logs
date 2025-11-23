@@ -1,0 +1,5 @@
+Tag Frequency Chart
+checkout ========== 222 (44%)
+return ========= 198 (39%)
+overdue == 46 (9%)
+broken == 34 (6%)

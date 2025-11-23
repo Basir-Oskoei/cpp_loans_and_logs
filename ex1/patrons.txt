@@ -1,0 +1,4 @@
+P123|1111|Basir|2|Laptop,Laptop,Camera
+P123|1111|Basir|2|Laptop,Laptop,Camera
+123|1112|reza|2|laptop,,
+1234|1111|Basir|2|Microphone,Laptop,camera
